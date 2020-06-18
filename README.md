@@ -1,4 +1,5 @@
-# CovidL9
+# Covid19
+This project shows live status of civid 19 cases around the world.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
